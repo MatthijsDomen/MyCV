@@ -8,22 +8,22 @@
 
 body {
 	font-family: Lato, "Open Sans", Roboto, "Segoe UI", "Comic Neue", Helvetica, Arial, sans-serif;
-	color: #FFFFFF;
+	color: #FA2400;
 	background-color: #000000;
 }
 
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
-    background-color: #000080;
+    background-color: #262663;
 }
 
 .resume-main {
-	background-color: #FF69B4;
+	background-color: #B7B89F;
 }
 
 .resume-aside {
-	background-color: #DBE2E9;
+	background-color: #0DB69E;
 }
 
 /* Styles for lists in the document */
